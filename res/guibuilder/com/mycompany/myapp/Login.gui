@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" layout="LayeredLayout" layeredLayoutPreferredWidthMM="0.0" layeredLayoutPreferredHeightMM="0.0"  autolayout="true" styles="font:12.0mm; bgColor:0; bgImage:;" title="Login" scrollableY="false" name="Login">
+  <component type="Label" preferredSize="164.02116mm 1.8518518mm" name="Label">
+    <layoutConstraint insets="1.587302mm 8.0% auto 8.0%" referenceComponents="-1 -1 -1 -1" referencePositions="0.0 0.0 0.0 0.0" />
+  </component>
+  <component type="Label" text="Welcome" styles="font:4.0mm native:MainBold native:MainBold; fgColor:ffffff;" name="Label_1">
+    <layoutConstraint insets="6.0% auto auto 0.0mm" referenceComponents="0 -1 -1 0 " referencePositions="1.0 0.0 0.0 0.0" />
+  </component>
+  <component type="Label" text="Mamakey" styles="font:4.0mm native:ItalicLight native:ItalicLight; fgColor:ffffff;" name="Label_2">
+    <layoutConstraint insets="6.0% 0.0mm auto auto" referenceComponents="0 0 -1 -1" referencePositions="1.0 0.0 0.0 0.0" />
+  </component>
+  <component type="SpanLabel" text="Please sign in to your account by filling the form bellow" styles="font:4.0mm;" preferredSize="160.05292mm inherit" name="Span_Label">
+    <layoutConstraint insets="21.052631% 0.0mm auto 0.0mm" referenceComponents="-1 0 -1 0 " referencePositions="0.0 0.0 0.0 0.0" />
+  </component>
+  <component type="Label" text="Email" styles="fgColor:ffffff;" preferredSize="15.608466mm inherit" name="Label_3">
+    <layoutConstraint insets="11.43617% auto auto 0.0mm" referenceComponents="3 -1 -1 0 " referencePositions="1.0 0.0 0.0 0.0" />
+  </component>
+  <component type="TextField" styles="border:roundRect stroke(1.0mm ffffff) +top-left +top-right +bottom-left +bottom-right 3.0mm; bgColor:ffffff;" preferredSize="157.67195mm 6.6137567mm" name="TextField">
+    <layoutConstraint insets="2.21519% 0.0mm auto 0.0mm" referenceComponents="4 0 -1 0 " referencePositions="1.0 0.0 0.0 0.0" />
+  </component>
+  <component type="Label" text="Password" styles="fgColor:ffffff;" preferredSize="21.957672mm inherit" name="Label_4">
+    <layoutConstraint insets="2.910053mm auto auto 0.0mm" referenceComponents="5 -1 -1 0 " referencePositions="1.0 0.0 0.0 0.0" />
+  </component>
+  <component type="TextField" styles="border:roundRect stroke(1.0mm ffffff) +top-left +top-right +bottom-left +bottom-right 3.0mm;" preferredSize="157.14285mm 7.142857mm" name="Text_Field">
+    <layoutConstraint insets="2.22% 0.0mm auto 0.0mm" referenceComponents="6 0 -1 0 " referencePositions="1.0 0.0 0.0 0.0" />
+  </component>
+  <component type="Button" text="Sign in" styles="fgColor:ffffff;" name="Button">
+    <layoutConstraint insets="4.6632123% auto auto 0.0mm" referenceComponents="7 -1 -1 0 " referencePositions="1.0 0.0 0.0 0.0" />
+  </component>
+  <component type="Label" text="Forgotten password" styles="font:3.0mm;" name="Label_5">
+    <layoutConstraint insets="auto 0.0mm 0.0mm auto" referenceComponents="7 0 8 -1" referencePositions="1.0 0.0 0.0 0.0" />
+  </component>
+  <component type="Button" text="Click here" styles="font:3.0mm native:MainBold native:MainBold; fgColor:ffffff;" name="Button_1">
+    <layoutConstraint insets="-4.605263% 0.0mm auto auto" referenceComponents="8 0 -1 -1" referencePositions="1.0 0.0 0.0 0.0" />
+  </component>
+  <component type="Label" text="Don't have an account" styles="font:3.0mm;" name="Label_6">
+    <layoutConstraint insets="46.710526% auto 36.18421% 0.0mm" referenceComponents="8 -1 -1 0 " referencePositions="1.0 0.0 0.0 0.0" />
+  </component>
+  <component type="Button" text="Click here" styles="font:3.0mm native:MainBold native:MainBold; fgColor:ffffff; alignment:left;" name="Button_2">
+    <layoutConstraint insets="-16.363636% 0.0mm auto 0.0mm" referenceComponents="11 1 -1 0 " referencePositions="1.0 0.0 0.0 0.0" />
+  </component>
+  <component type="Label" styles="bgColor:ffffff;" preferredSize="8.465609mm inherit" icon="fontImage:e0be" name="Label_7">
+    <layoutConstraint insets="64.210526% 0.0mm auto auto" referenceComponents="10 0 12 -1" referencePositions="1.0 0.0 0.0 0.0" />
+  </component>
+</component>
